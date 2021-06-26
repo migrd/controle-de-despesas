@@ -2,4 +2,4 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/controlededespesas)
 
-<img src="controlededespesas.pnq">
+<code><img src="controlededespesas.pnq"></code>
